@@ -1,4 +1,4 @@
-Function korruta2(arv As ...) As ...
+Function korruta2(arv As double) As double
   korruta2 = arv * 2
 End Function
 
