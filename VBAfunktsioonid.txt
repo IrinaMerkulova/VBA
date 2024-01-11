@@ -1,8 +1,8 @@
-Function korruta2(arv As Integer) As String
+Function korruta2(arv As Integer) As Integer
   korruta2 = arv * 2
 End Function
 
-Function korrutis(arv1, arv2 As ...) As ...
+Function korrutis(arv1, arv2 As Integer) As Integer
   korrutis = Math.Round(arv1 * arv2, 3)
 '3 - pärast koma numbrite arv
 End Function
