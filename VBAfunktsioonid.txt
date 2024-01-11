@@ -2,9 +2,9 @@ Function korruta2(arv As double) As double
   korruta2 = arv * 2
 End Function
 
-Function korrutis(arv1, arv2 As ...) As ...
+Function korrutis(arv1, arv2 As double) As double
   korrutis = Math.Round(arv1 * arv2, 3)
-'3 - pärast koma numbrite arv
+'3 - pärast koma numbrite arv'
 End Function
 
 Function kolmnurkPindala(alus, korgus As ...) As ...
