@@ -12,6 +12,6 @@ Function kolmnurkPindala(alus, korgus As int) As int
     kolmnurkPindala = alus * korgus * k
 End Function
 
-Function esitahtVaiksena(sona As ...) As ...
+Function esitahtVaiksena(sona As int) As int
   esitahtVaiksena = LCase(Mid(sona, 1, 1))
 End Function
