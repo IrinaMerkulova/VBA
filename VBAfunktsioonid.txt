@@ -1,4 +1,4 @@
-Function korruta2(arv As ...) As ...
+Function korruta2(arv As Integer) As String
   korruta2 = arv * 2
 End Function
 
