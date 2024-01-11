@@ -7,7 +7,7 @@ Function korrutis(arv1, arv2 As Integer) As String
 '3 - pärast koma numbrite arv
 End Function
 
-Function kolmnurkPindala(alus, korgus As float) As float
+Function kolmnurkPindala(alus, korgus As intenger) As double
     Const k = 1 / 2
     kolmnurkPindala = alus * korgus * k
 End Function
